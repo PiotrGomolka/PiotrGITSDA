@@ -1,2 +1,3 @@
-zmiana w pliku i zamoana a
+zmiana w pliku i zamoana na
+nowa eksperymentalna funkcjonalnosc
 .
