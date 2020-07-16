@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Dodanie funkcjonalnosci A
-=======
-any zmiany
->>>>>>> testing
