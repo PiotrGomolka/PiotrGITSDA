@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Dodanie funkcjonalnosci D
-=======
- Z to k
->>>>>>> testing
